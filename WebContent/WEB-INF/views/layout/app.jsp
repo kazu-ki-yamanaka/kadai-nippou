@@ -9,7 +9,7 @@
         <link rel="stylesheet" href="<c:url value='/css/style.css' />">
     </head>
     <body>
-        <div id= "wrapper">
+        <div id="wrapper">
             <div id="header">
                 <h1>日報管理システム</h1>
             </div>
@@ -20,6 +20,5 @@
                 by Taro Kirameki.
             </div>
         </div>
-
     </body>
 </html>

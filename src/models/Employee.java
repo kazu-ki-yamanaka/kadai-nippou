@@ -1,4 +1,5 @@
 package models;
+
 import java.sql.Timestamp;
 
 import javax.persistence.Column;
@@ -121,5 +122,3 @@ public class Employee {
         this.delete_flag = delete_flag;
     }
 }
-
-
